@@ -1,17 +1,8 @@
-# === GLOBAL ===
-.DS_Store
-*.log
-
-# === FRONTEND ===
-frontend/adminpanel/node_modules/
-frontend/adminpanel/.env
-frontend/adminpanel/.vscode/
-frontend/adminpanel/build/
-
-frontend/foodies/node_modules/
-frontend/foodies/.env
-frontend/foodies/.vscode/
-frontend/foodies/build/
+# === FRONTEND (adminpanel + foodies) ===
+**/node_modules/
+**/.env
+**/.vscode/
+**/build/
 
 # === BACKEND ===
 backend/target/
@@ -19,6 +10,8 @@ backend/.idea/
 backend/.env
 *.iml
 
-# === OS Files ===
+# === GLOBAL ===
+.DS_Store
+*.log
 Thumbs.db
 ehthumbs.db
