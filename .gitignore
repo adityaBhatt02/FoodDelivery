@@ -3,10 +3,15 @@
 *.log
 
 # === FRONTEND ===
-frontend/node_modules/
-frontend/.env
-frontend/.vscode/
-frontend/build/
+frontend/adminpanel/node_modules/
+frontend/adminpanel/.env
+frontend/adminpanel/.vscode/
+frontend/adminpanel/build/
+
+frontend/foodies/node_modules/
+frontend/foodies/.env
+frontend/foodies/.vscode/
+frontend/foodies/build/
 
 # === BACKEND ===
 backend/target/
