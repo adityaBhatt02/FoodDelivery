@@ -1,0 +1,19 @@
+# === GLOBAL ===
+.DS_Store
+*.log
+
+# === FRONTEND ===
+frontend/node_modules/
+frontend/.env
+frontend/.vscode/
+frontend/build/
+
+# === BACKEND ===
+backend/target/
+backend/.idea/
+backend/.env
+*.iml
+
+# === OS Files ===
+Thumbs.db
+ehthumbs.db
