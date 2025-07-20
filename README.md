@@ -23,6 +23,7 @@ backend/
 
 ## Features
 ✅ User Features
+
 •Browse and filter food by category, rating, price, and more
 
 •Add to cart and place orders with real-time pricing
@@ -34,6 +35,7 @@ backend/
 •Razorpay integration for secure online payments
 
 🛠️ Admin Panel
+
 •Add, edit, and delete food items
 
 •View orders and manage delivery status
@@ -41,6 +43,7 @@ backend/
 •Upload food images (stored in AWS S3)
 
 💬 AI Chat Assistant (SmartBot)
+
 •Understands full user queries like "Show me spicy north Indian dishes under 200"
 
 •Suggests accurate food from the live database
@@ -49,6 +52,7 @@ backend/
 
 
 📥 Invoice Download (PDF)
+
 •Users can download a professional invoice after ordering. It includes:
 
 •Company logo (Golden Zaika)
