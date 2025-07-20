@@ -1,4 +1,4 @@
-<img width="1859" height="987" alt="Screenshot 2025-07-20 032531" src="https://github.com/user-attachments/assets/592c19a9-b5e5-4440-85cb-9e60fa389b92" /># Golden Zaika - Gourmet Food Delivery App
+# Golden Zaika - Gourmet Food Delivery App
 
 Welcome to **Golden Zaika**, a full-stack food delivery platform offering a smooth ordering experience, admin control, Razorpay integration, AI-powered smart food suggestions, and stylish UI powered by React, Spring Boot, and MongoDB.
 
@@ -61,7 +61,7 @@ backend/
 
 
 
-📸 Screenshots
+## 📸 Screenshots
 <img width="1859" height="987" alt="Screenshot 2025-07-20 032531" src="https://github.com/user-attachments/assets/1e509acd-cff3-4a91-b57b-8446a7204f3f" />
 <img width="1834" height="989" alt="Screenshot 2025-07-20 032557" src="https://github.com/user-attachments/assets/ef41ac85-fa91-4e71-bd2d-72c3c739996e" />
 <img width="1848" height="984" alt="Screenshot 2025-07-20 032634" src="https://github.com/user-attachments/assets/f76870ec-caae-4119-b367-236690911068" />
