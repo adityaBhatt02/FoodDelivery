@@ -65,7 +65,7 @@ backend/
 
 
 
-## 📸 Screenshots
+## Screenshots
 <img width="1859" height="987" alt="Screenshot 2025-07-20 032531" src="https://github.com/user-attachments/assets/1e509acd-cff3-4a91-b57b-8446a7204f3f" />
 <img width="1834" height="989" alt="Screenshot 2025-07-20 032557" src="https://github.com/user-attachments/assets/ef41ac85-fa91-4e71-bd2d-72c3c739996e" />
 <img width="1848" height="984" alt="Screenshot 2025-07-20 032634" src="https://github.com/user-attachments/assets/f76870ec-caae-4119-b367-236690911068" />
@@ -80,6 +80,13 @@ backend/
 <img width="666" height="735" alt="Screenshot 2025-07-21 022956" src="https://github.com/user-attachments/assets/89f57018-e832-4db2-a700-6260752bb2cb" />
 <img width="623" height="625" alt="Screenshot 2025-07-21 023008" src="https://github.com/user-attachments/assets/d57a5173-280c-498a-9666-18309b493178" />
 <img width="1835" height="931" alt="Screenshot 2025-07-20 032325" src="https://github.com/user-attachments/assets/cfca4412-36ec-41f2-87b3-8a76f8dfcccf" />
+
+## License
+
+This project is licensed under the MIT License.
+
+**Please give credit if you use or reference any part of this project.**  
+Created by [Aditya Bhatt](https://github.com/adityabhatt).
 
 
 
