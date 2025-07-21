@@ -86,7 +86,7 @@ backend/
 This project is licensed under the MIT License.
 
 **Please give credit if you use or reference any part of this project.**  
-Created by [Aditya Bhatt](https://github.com/adityabhatt).
+Created by [Aditya Bhatt](https://github.com/adityaBhatt02)
 
 
 
