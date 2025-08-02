@@ -24,9 +24,9 @@ backend/
 └── foodies-api/      # Spring Boot backend
 ```
 
-
+---
 ## Features
-✅ User Features
+✅ **User Features**
 
 •Browse and filter food by category, rating, price, and more
 
@@ -38,7 +38,7 @@ backend/
 
 •Razorpay integration for secure online payments
 
-🛠️ Admin Panel
+🛠️ **Admin Panel**
 
 •Add, edit, and delete food items
 
@@ -46,7 +46,7 @@ backend/
 
 •Upload food images (stored in AWS S3)
 
-💬 AI Chat Assistant (SmartBot)
+💬 **AI Chat Assistant (SmartBot)**
 
 •Understands full user queries like "Show me spicy north Indian dishes under 200"
 
@@ -55,7 +55,7 @@ backend/
 •Handles plural forms, fuzzy input, category matching, etc.
 
 
-📥 Invoice Download (PDF)
+📥 **Invoice Download (PDF)**
 
 •Users can download a professional invoice after ordering. It includes:
 
