@@ -13,13 +13,17 @@ Welcome to **Golden Zaika**, a full-stack food delivery platform offering a smoo
 | GSAP Animations     | Spring Security (JWT)|             | SmartBot (AI Chat Assistant)|
 
 ---
-
 ## Folder Structure
+
+```
 frontend/
-  ├── adminpanel/       # Admin dashboard (React)
-  └── foodies/          # User-facing food delivery UI (React)
+├── adminpanel/       # Admin dashboard (React)
+└── foodies/          # User-facing food delivery UI (React)
+
 backend/
-  └── foodies-api/      # Spring Boot backend
+└── foodies-api/      # Spring Boot backend
+```
+
 
 ## Features
 ✅ User Features
